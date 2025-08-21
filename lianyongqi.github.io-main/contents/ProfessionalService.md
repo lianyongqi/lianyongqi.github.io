@@ -1,0 +1,55 @@
+**<span style="color: blue;">（1）Editor</span>**
+- Tsinghua Science and Technology, Associate Editor (2024~)
+- International Journal of Intelligent Networks, Associate EiC (2025~)
+- Intelligent Automation & Soft Computing,  Associate Editor (2022~)
+- Journal of Organizational and End User Computing (SCI/SSCI), Managing Editor (2020~ )
+
+**<span style="color: blue;">（2）Conference Chair/Area Chair/Senior PC</span>**
+- AAAI (CCF-A), Singapore, 2026. SPC
+- WWW (CCF-A, Short Paper Track), Sydney, Australia, 2025. SPC.
+- IJCAI (CCF-A), Montreal, Canada, 2025. SPC.
+- ICWS (CCF-B), Helsinki, Finland, 2025. SPC.
+- WWW (CCF-A, RecSys Track), Sydney, Australia, 2025. Area Chair.
+- ADMA (CCF-C) Special Session PSTDA 2025, Tokyo, Japan, 2025, General Co-chair.
+- CBPM, Xiangtan, China, 2025. Publicity Chair.
+- ADMA (CCF-C), Sydney, Australia, 2024, Journal Track Chair.
+- DSAA (CCF-C) Special Session PSTDA 2024, San Diego, United States, 2024, General Co-chair.
+- ChineseCSCW, Hohhot, China,  2024, Paper Recommendation Chair.
+- CIKM (CCF-B) International Workshop on Edge-Cloud Intelligence. Birmingham, UK, 2023.
+- CENet, Wuxi, China, 2023. General Co-Chair.
+- IEEE CPSCom, Rhode Espoo, Finland, 2022. TPC Co-chair.
+- CBPM, Nanjing, China, 2022. Organization Chair.
+- ML4CS, Guangzhou, China, 2022. Track Chair.
+- CENet, Haikou, China, 2022. TPC Chair.
+- EAI CloudComp, Melbourne, Australia, 2021. TPC Co-Chair.
+- CENet, Hechi, China, 2021. Publication Chair.
+- NeuRec, Sorrento, Italy, 2020. Program Chair.
+- EAI CloudComp, Qufu, China, 2020. General Co-Chair.
+- SPDE, Zhou Qu, China, 2020. Special Issue Chair.
+- ML4CS, Guangzhou, China, 2020. Publicity Chair.
+- IIoTBDSC, 2020. Publicity Chair.
+- IEEE CPSCom, Rhode Island, Greece, 2020. Track Chair.
+- IEEE CPSCom, Atlanta, USA, 2019. TPC Vice Chair.
+- EAI CloudComp, Sydney, Australia, 2019. Workshop Chair.
+- IEEE CPSCom'2018. TPC Vice Chair
+
+**<span style="color: blue;">（3）PC member</span>**
+- NeurIPS, 2025
+- ACM MM, 2025
+- CVPR, 2025
+- ICCV, 2025
+- SIGIR, 2025
+- ICLR, 2025
+- KDD, 2024-2026
+- WWW, 2024-2025
+- AAAI, 2023-2026
+- IJCAI, 2021-2025
+- WSDM, 2026
+- ICDCS, 2024
+- DASFAA, 2024
+- CIKM, 2023-2025
+- ICSOC, 2023-2025
+- ECML-PKDD, 2023-2025
+- IEEE ICWS, 2018, 2023-2025
+- IEEE UIC, 2018
+- CollaborateCom, 2017.

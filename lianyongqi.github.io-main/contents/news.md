@@ -1,0 +1,80 @@
+- Paper accepted by CIKM'2025. Congratulations to Dejiang Zhang🎉
+- Paper accepted by ACM MM'2025. Congratulations to Yijie Yang🎉
+- Paper accepted by ACM MM'2025. Congratulations to Te Song🎉
+- AAAI'2026 Senior PC
+- KDD'2026 PC member
+- WSDM'2026 PC member
+- 茆星远、 周胥丞荣获“挑战杯”山东省竞赛特等奖🎉
+- Paper accepted by IEEE Transactions on Mobile Computing. Congratulations to Xiaolong Xu🎉
+- Paper accepted by ICML'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by IJCAI'2025. Congratulations to Yuwen Liu🎉
+- Paper accepted by IJCAI'2025. Congratulations to Haodong Li🎉
+- Paper accepted by IJCAI'2025. Congratulations to Xuyun Zhang🎉
+- Paper accepted by IJCAI'2025. Congratulations to Haolong Xiang🎉
+- Paper accepted by IJCAI'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by 中国科学: 信息科学. Congratulations to Fan Wang🎉
+- ICWS'2025: Senior PC.
+- "Highly Ranked Scholar (Prior 5 Years)-Top 0.05%" (ScholarGPS, 2024)
+- Paper accepted by WWW'2025. Congratulations to Yuwen Liu🎉
+- Paper accepted by WWW'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by IEEE Transactions on Mobile Computing. Congratulations to Xiaolong Xu🎉
+- WWW'2025  Short Paper Track: Senior PC Member.
+- Paper accepted by 电子学报. Congratulations to Xiaolong Xu🎉
+- Paper accepted by AAAI'2025. Congratulations to Te Song🎉
+- Paper accepted by AAAI'2025. Congratulations to Wenwen Gong🎉
+- Paper accepted by AAAI'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by ACM Transactions on Information Systems. Congratulations to Xiaolong Xu🎉
+- IJCAI'2025: Senior PC Member.
+- WWW'2025 RecSys Track: Area Chair.
+- Paper accepted by ACM Transactions on Information Systems. Congratulations to Chaochao Chen🎉
+- Paper accepted by NeurIPS'2024. Congratulations to Yongzhe Jia🎉
+- Paper accepted by IEEE Transactions on Services Computing. Congratulations to Lina Wang🎉
+- I was elected as an Honorary Professor at Macquarie University, Australia.
+- Paper accepted by Applied Energy. Congratulations to Weiyi Zhong🎉
+- Paper accepted by ACM MM'2024. Congratulations to Xingyuan Mao🎉
+- Paper accepted by CIKM'2024. Congratulations to Xucheng Zhou🎉
+- Paper accepted by CIKM'2024. Congratulations to Zhikang Feng🎉
+- KDD'2025 PC member
+- AAAI'2025 PC member
+- ICSOC'2025 PC member
+- Paper accepted by ACM SIGKDD'2024. Congratulations to Fan Wang🎉
+- Paper accepted by IEEE/ACM Transactions on Networking. Congratulations to Rong Gu🎉
+- Paper accepted by IJCAI'2024. Congratulations to Yuwen Liu🎉
+- Paper accepted by IJCAI'2024. Congratulations to Xiaolong Xu🎉
+- Paper accepted by IJCAI'2024. Congratulations to Xiaoxiao Chi🎉
+- Paper accepted by ACM SIGIR'2024. Congratulations to Xiaolong Xu🎉
+- Paper accepted by WWW'2024. Congratulations to Yuwen Liu🎉
+- I am serving as the Associate Editor of  Tsinghua Science and Technology (Q1)
+- I am serving as the Journal Track Chair of ADMA'2024 (CCF-C, Sydney, Australia).
+- I am serving as the General Co-Chair of Special Session on "Private, Secure, and Trust Data Analytics" of DSAA 2024 (CCF-C).
+- Paper accepted by IEEE Transactions on Artificial Intelligence. Congratulations to Wenmin Lin🎉.
+- Paper accepted by IEEE Transactions on Consumer Electronics. Congratulations to Ruowei Zhang🎉.
+- Congratulations to Ying Miao for being admitted to Peking University🎉.
+- Our work received 2023 Shandong Province Natural Science Award (Second Prize, 1/3).
+- I received "CCF-Service Computing Committee-Young Talent Award" 2023.
+- I was selected as Clarivate-Highly Cited Researcher 2023.
+- KDD'2024 PC member.
+- WWW'2024 PC member.
+- IJCAI'2024 PC member.
+- ICSOC'2024 PC member.
+- CIKM'2024 PC member.
+- ECML-PKDD'2024 PC member.
+- ICWS'2024 PC member.
+- ICDCS'2024 PC member.
+- DASFAA'2024 PC member.
+- AAAI'2024 PC member.
+- Call-for-Paper: CIKM'2023 Workshop on Edge-Cloud Intelligence
+- Paper accepted by IJCAI'2023. Congratulations to Haolong Xiang🎉
+- Paper accepted by ACM SIGIR'2023. Congratulations to Qiang He🎉
+- Paper accepted by IEEE Journal on Selected Areas in Communications🎉
+- Paper accepted by IEEE Internet of Things Journal. Congratulations to Ying Miao🎉
+- Paper accepted by CIKM'2023. Congratulations to Shunmei Meng🎉
+- AAAI'2023 PC member.
+- IJCAI'2023 PC member.
+- CIKM'2023 PC member.
+- ECML-PKDD'2023 PC member.
+- ICSOC'2023 PC member.
+- IEEE HPCC'2023 (CCF-C), Best Paper Award.
+- IEEE ICPADS'2023 (CCF-C), Outstanding Paper Award.
+- IEEE ISPA'2022 (CCF-C), Best Paper Award.
+- IEEE UIC'2022 (CCF-C), Outstanding Paper Award.
