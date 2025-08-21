@@ -1,3 +1,6 @@
+- **Highly Ranked Scholar (Prior 5 Years)-Top 0.05%** (ScholarGPS, 2024)
+- 2024 **Macquarie University (Australia) Honorary Professor**
+- 2024 **中国石油大学（华东）“工程十佳” 指导教师**
 - 2023 **Shandong Province Natural Science Award** (Second Prize, 1/3)
 - 2023 **CCF**-Service Computing Committee-**Young Talent Award** 
 - 2021-2023 **Highly Cited Researcher** (Clarivate)

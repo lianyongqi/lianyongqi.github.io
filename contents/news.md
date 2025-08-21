@@ -1,3 +1,36 @@
+- Paper accepted by CIKM'2025. Congratulations to Dejiang Zhang🎉
+- Paper accepted by ACM MM'2025. Congratulations to Yijie Yang🎉
+- Paper accepted by ACM MM'2025. Congratulations to Te Song🎉
+- AAAI'2026 Senior PC
+- KDD'2026 PC member
+- WSDM'2026 PC member
+- 茆星远、 周胥丞荣获“挑战杯”山东省竞赛特等奖🎉
+- Paper accepted by IEEE Transactions on Mobile Computing. Congratulations to Xiaolong Xu🎉
+- Paper accepted by ICML'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by IJCAI'2025. Congratulations to Yuwen Liu🎉
+- Paper accepted by IJCAI'2025. Congratulations to Haodong Li🎉
+- Paper accepted by IJCAI'2025. Congratulations to Xuyun Zhang🎉
+- Paper accepted by IJCAI'2025. Congratulations to Haolong Xiang🎉
+- Paper accepted by IJCAI'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by 中国科学: 信息科学. Congratulations to Fan Wang🎉
+- ICWS'2025: Senior PC.
+- "Highly Ranked Scholar (Prior 5 Years)-Top 0.05%" (ScholarGPS, 2024)
+- Paper accepted by WWW'2025. Congratulations to Yuwen Liu🎉
+- Paper accepted by WWW'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by IEEE Transactions on Mobile Computing. Congratulations to Xiaolong Xu🎉
+- WWW'2025  Short Paper Track: Senior PC Member.
+- Paper accepted by 电子学报. Congratulations to Xiaolong Xu🎉
+- Paper accepted by AAAI'2025. Congratulations to Te Song🎉
+- Paper accepted by AAAI'2025. Congratulations to Wenwen Gong🎉
+- Paper accepted by AAAI'2025. Congratulations to Xiaolong Xu🎉
+- Paper accepted by ACM Transactions on Information Systems. Congratulations to Xiaolong Xu🎉
+- IJCAI'2025: Senior PC Member.
+- WWW'2025 RecSys Track: Area Chair.
+- Paper accepted by ACM Transactions on Information Systems. Congratulations to Chaochao Chen🎉
+- Paper accepted by NeurIPS'2024. Congratulations to Yongzhe Jia🎉
+- Paper accepted by IEEE Transactions on Services Computing. Congratulations to Lina Wang🎉
+- I was elected as an Honorary Professor at Macquarie University, Australia.
+- Paper accepted by Applied Energy. Congratulations to Weiyi Zhong🎉
 - Paper accepted by ACM MM'2024. Congratulations to Xingyuan Mao🎉
 - Paper accepted by CIKM'2024. Congratulations to Xucheng Zhou🎉
 - Paper accepted by CIKM'2024. Congratulations to Zhikang Feng🎉
