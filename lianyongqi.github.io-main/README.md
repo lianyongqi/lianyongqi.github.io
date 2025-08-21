@@ -1,1 +1,0 @@
-# qlyseven.github.io
